@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.obj
+encode.exe
+encode
+encode.obj
