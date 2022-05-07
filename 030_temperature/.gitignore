@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.obj
+temp_convert.exe
+temp_convert
+temp_convert.obj
